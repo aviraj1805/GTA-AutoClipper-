@@ -1,0 +1,16 @@
+**/.env
+**/.dev.vars
+**/.dev.vars.*
+**/config/channels.json
+**/queue/
+**/private/
+**/work/
+**/output/
+**/test_out/
+**/.venv/
+**/__pycache__/
+**/*.py[cod]
+**/*.mp4
+**/*.bad
+/reviewed/
+*.log
